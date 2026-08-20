@@ -1,10 +1,19 @@
-# Hi there, I'm a Tech Enthusiast!
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;IoT+Enthusiast;Network+%26+System+Administrator" alt="Typing SVG" />
   </a>
 </div>
+
+```text
+Router> enable
+Router# configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router(config)# hostname Daffa_Fadhul_Rahman
+Daffa_Fadhul_Rahman(config)# interface vlan 1
+Daffa_Fadhul_Rahman(config-if)# description >> SIJA Student | Tech Enthusiast <<
+Daffa_Fadhul_Rahman(config-if)# end
+Daffa_Fadhul_Rahman# _
+```
 
 ---
 
