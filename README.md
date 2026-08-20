@@ -1,3 +1,5 @@
+<h1 align="center">Hello World! Welcome to My Digital Workspace</h1>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;IoT+Enthusiast;Network+%26+System+Administrator" alt="Typing SVG" />
@@ -9,7 +11,7 @@ Router> enable
 Router# configure terminal
 Enter configuration commands, one per line.  End with CNTL/Z.
 Router(config)# hostname Daffa_Fadhul_Rahman
-Daffa_Fadhul_Rahman(config)# interface vlan 8
+Daffa_Fadhul_Rahman(config)# interface vlan 1
 Daffa_Fadhul_Rahman(config-if)# description >> SIJA Student | Tech Enthusiast <<
 Daffa_Fadhul_Rahman(config-if)# end
 Daffa_Fadhul_Rahman# _
@@ -18,12 +20,12 @@ Daffa_Fadhul_Rahman# _
 ---
 
 ### About Me
-I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaringan, dan Aplikasi) at SMKN 2 Yogyakarta. I have a huge passion for bridging hardware and software, from crafting beautiful user interfaces to configuring servers and building IoT devices.
+I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaringan, dan Aplikasi) at SMKN 2 Yogyakarta. I have a strong passion for bridging hardware and software, from crafting intuitive user interfaces to configuring servers and building IoT devices.
 
-- **Currently focusing on:** Preparing for the IT Network Systems Administration LKS competition and deepening my Full-Stack skills.
-- **What I do:** Web Development (React, Next.js, Node.js), IoT Prototyping (ESP8266), and Network SysAdmin (Linux/Debian, MikroTik, Cisco, Proxmox).
-- **Exploring:** Integrating Machine Learning (TensorFlow.js) into Express backend applications.
-- **How to reach me:** [daffasierra2620@gmail.com](mailto:daffasierra2620@gmail.com)
+- **Current Focus:** Preparing for the IT Network Systems Administration LKS competition and advancing my Full-Stack development skills.
+- **Technical Expertise:** Web Development (React, Next.js, Node.js), IoT Prototyping (ESP8266), and Network & System Administration (Linux/Debian, MikroTik, Cisco, Proxmox).
+- **Currently Exploring:** Integrating Machine Learning (TensorFlow.js) into Express backend applications.
+- **Contact:** [daffasierra2620@gmail.com](mailto:daffasierra2620@gmail.com)
 
 ---
 
