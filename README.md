@@ -13,7 +13,7 @@ I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaring
 
 - **Currently focusing on:** Preparing for the IT Network Systems Administration LKS competition and deepening my Full-Stack skills.
 - **What I do:** Web Development (React, Next.js, Node.js), IoT Prototyping (ESP8266), and Network SysAdmin (Linux/Debian, MikroTik, Cisco, Proxmox).
-- **Design:** I also enjoy creating UI/UX designs and layouts using Figma.
+- **Exploring:** Integrating Machine Learning (TensorFlow.js) into Express backend applications.
 - **How to reach me:** [daffasierra2620@gmail.com](mailto:daffasierra2620@gmail.com)
 
 ---
@@ -27,6 +27,12 @@ I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaring
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+---
+
+### 🏆 Certifications & Training
+- **Full-Stack Web Developer Track** - Coding Camp 2026 (powered by DBS Foundation)
+- **MTCNA Training** - Participated in MikroTik Certified Network Associate training (October 2025)
 
 ---
 
@@ -52,13 +58,22 @@ I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaring
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-222222?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 *   **FutureFind AI** - A major matching platform built with React and Tailwind CSS to help vocational students find the right academic path based on their skills and interests.
 *   **IoT Gas Leak Detector** - A smart hardware system utilizing an ESP8266 NodeMCU, MQ-2, and DHT sensors, integrated with Blynk IoT and IFTTT for automated email alerts.
 *   **Bookshelf API** - A RESTful backend API developed using Node.js and Express to manage book data efficiently.
+
+---
+
+### ⚡ Beyond the Code
+When I'm not configuring servers or debugging code, you can usually find me:
+- 🎮 Exploring mods in Stardew Valley, hunting ghosts in Phasmophobia, or playing Honkai: Star Rail and Neverness to Everness (NTE).
+- ✍️ Writing general fiction with poetic themes on Wattpad.
+- 🌌 Enjoying Tokusatsu series like Ultraman or reading manga.
