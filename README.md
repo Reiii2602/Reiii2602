@@ -30,7 +30,7 @@ I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaring
 
 ---
 
-### 🏆 Certifications & Training
+### Certifications & Training
 - **Full-Stack Web Developer Track** - Coding Camp 2026 (powered by DBS Foundation)
 - **MTCNA Training** - Participated in MikroTik Certified Network Associate training (October 2025)
 
@@ -64,7 +64,7 @@ I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaring
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 *   **FutureFind AI** - A major matching platform built with React and Tailwind CSS to help vocational students find the right academic path based on their skills and interests.
 *   **IoT Gas Leak Detector** - A smart hardware system utilizing an ESP8266 NodeMCU, MQ-2, and DHT sensors, integrated with Blynk IoT and IFTTT for automated email alerts.
@@ -72,8 +72,16 @@ I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaring
 
 ---
 
-### ⚡ Beyond the Code
+### Beyond the Code
 When I'm not configuring servers or debugging code, you can usually find me:
-- 🎮 Exploring mods in Stardew Valley, hunting ghosts in Phasmophobia, or playing Honkai: Star Rail and Neverness to Everness (NTE).
-- ✍️ Writing general fiction with poetic themes on Wattpad.
-- 🌌 Enjoying Tokusatsu series like Ultraman or reading manga.
+- Exploring mods in Stardew Valley, hunting ghosts in Phasmophobia, or playing Honkai: Star Rail and Neverness to Everness (NTE).
+- Writing general fiction with poetic themes on Wattpad.
+- Enjoying Tokusatsu series like Ultraman or reading manga.
+
+---
+
+<br>
+
+<div align="center">
+  <i>"No matter if it's only 1%, I must be better than yesterday."</i>
+</div>
