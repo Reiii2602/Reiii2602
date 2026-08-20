@@ -95,7 +95,7 @@ I am Daffa Fadhul Rahman, a vocational high school student majoring in SIJA (Sis
 
 ### Beyond the Code
 When I'm not configuring servers or debugging code, you can usually find me:
-- Exploring mods in Stardew Valley, hunting ghosts in Phasmophobia, or playing Honkai: Star Rail and Neverness to Everness (NTE).
+- Exploring mods in Stardew Valley, hunting ghosts in Phasmophobia, or playing Honkai: Star Rail.
 - Writing general fiction with poetic themes on Wattpad.
 - Enjoying Tokusatsu series like Ultraman or reading manga.
 
