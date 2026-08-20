@@ -44,6 +44,9 @@ I am Daffa Fadhul Rahman, a vocational high school student majoring in SIJA (Sis
   <a href="https://www.instagram.com/dappa.jpg?igsh=amZ5cmR4NHh3N2E0" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://www.tiktok.com/@reishiroo_" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
 </p>
 
 ---
