@@ -12,7 +12,7 @@
 I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaringan, dan Aplikasi) at SMKN 2 Yogyakarta. I have a huge passion for bridging hardware and software, from crafting beautiful user interfaces to configuring servers and building IoT devices.
 
 - **Currently focusing on:** Preparing for the IT Network Systems Administration LKS competition and deepening my Full-Stack skills.
-- **What I do:** Web Development (React & Node.js), IoT Prototyping (ESP8266), and Network SysAdmin (Linux, MikroTik, Cisco).
+- **What I do:** Web Development (React, Next.js, Node.js), IoT Prototyping (ESP8266), and Network SysAdmin (Linux/Debian, MikroTik, Cisco, Proxmox).
 - **Design:** I also enjoy creating UI/UX designs and layouts using Figma.
 - **How to reach me:** [daffasierra2620@gmail.com](mailto:daffasierra2620@gmail.com)
 
@@ -34,6 +34,7 @@ I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaring
 
 **Frontend & Design**
 <br>
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -43,11 +44,14 @@ I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaring
 <br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 **Networking, SysAdmin & IoT**
 <br>
+![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
