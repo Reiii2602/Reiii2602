@@ -58,13 +58,3 @@ I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaring
 *   **FutureFind AI** - A major matching platform built with React and Tailwind CSS to help vocational students find the right academic path based on their skills and interests.
 *   **IoT Gas Leak Detector** - A smart hardware system utilizing an ESP8266 NodeMCU, MQ-2, and DHT sensors, integrated with Blynk IoT and IFTTT for automated email alerts.
 *   **Bookshelf API** - A RESTful backend API developed using Node.js and Express to manage book data efficiently.
-
----
-
-### GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Reiii2602&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Reiii2602 Trophies" />
-  </a>
-</div>
