@@ -91,7 +91,14 @@ When I'm not configuring servers or debugging code, you can usually find me:
 
 ---
 
-<br>
+```text
+Daffa_Fadhul_Rahman# show profile traffic
+Gathering interface data...
+Total successful HTTPS connections (Profile Views):
+```
+<img src="https://komarev.com/ghpvc/?username=Reiii2602&style=flat-square&color=222222&label=VISITORS" alt="Profile Views" />
+
+<br><br>
 
 <div align="center">
   <i>"No matter if it's only 1%, I must be better than yesterday."</i>
