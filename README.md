@@ -11,11 +11,11 @@
 ```text
 Router> enable
 Router# configure terminal
-Enter configuration commands, one per line.  End with CNTL/Z.
 Router(config)# hostname Daffa_Fadhul_Rahman
-Daffa_Fadhul_Rahman(config)# interface vlan 1
-Daffa_Fadhul_Rahman(config-if)# description >> SIJA Student | Tech Enthusiast <<
-Daffa_Fadhul_Rahman(config-if)# end
+Daffa_Fadhul_Rahman(config)# interface GigabitEthernet0/0.10
+Daffa_Fadhul_Rahman(config-subif)# encapsulation dot1Q 10
+Daffa_Fadhul_Rahman(config-subif)# description >> SIJA Student | Tech Enthusiast <<
+Daffa_Fadhul_Rahman(config-subif)# end
 Daffa_Fadhul_Rahman# show ip tcp brief | include ESTABLISHED
 Gathering incoming connections from GitHub...
 Total active profile visitor sessions:
