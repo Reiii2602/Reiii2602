@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;IoT+Enthusiast;Network+%26+System+Administrator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Network+%26+System+Administrator;Full-Stack+Web+Developer;IoT+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,10 +11,11 @@
 ```text
 Router> enable
 Router# configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
 Router(config)# hostname Daffa_Fadhul_Rahman
 Daffa_Fadhul_Rahman(config)# interface GigabitEthernet0/0.10
 Daffa_Fadhul_Rahman(config-subif)# encapsulation dot1Q 10
-Daffa_Fadhul_Rahman(config-subif)# description >> SIJA Student | Tech Enthusiast <<
+Daffa_Fadhul_Rahman(config-subif)# description >> SIJA Student | Network & System Admin <<
 Daffa_Fadhul_Rahman(config-subif)# end
 Daffa_Fadhul_Rahman# show ip tcp brief | include ESTABLISHED
 Gathering incoming connections from GitHub...
@@ -27,10 +28,10 @@ Total active profile visitor sessions:
 ---
 
 ### About Me
-I am Daffa Fadhul Rahman, a vocational high school student majoring in SIJA (Sistem Informasi, Jaringan, dan Aplikasi) at SMKN 2 Yogyakarta. I have a strong passion for bridging hardware and software, from crafting intuitive user interfaces to configuring servers and building IoT devices.
+I am Daffa Fadhul Rahman, a vocational high school student majoring in SIJA (Sistem Informasi, Jaringan, dan Aplikasi) at SMKN 2 Yogyakarta. My core focus lies in designing, securing, and troubleshooting robust network infrastructures and Linux/Windows server environments, while actively expanding my capabilities into Full-Stack web development and IoT hardware engineering.
 
-- **Current Focus:** Preparing for the IT Network Systems Administration LKS competition and advancing my Full-Stack development skills.
-- **Technical Expertise:** Web Development (React, Next.js, Node.js), IoT Prototyping (ESP8266), and Network & System Administration (Linux/Debian, MikroTik, Cisco, Proxmox).
+- **Current Focus:** Preparing for the IT Network Systems Administration LKS competition and deepening enterprise-grade network routing and server administration.
+- **Technical Expertise:** Network & System Administration (Linux/Debian, MikroTik, Cisco, Proxmox), Full-Stack Web Development (React, Next.js, Node.js), and IoT Prototyping (ESP8266).
 - **Currently Exploring:** Integrating Machine Learning (TensorFlow.js) into Express backend applications.
 - **Contact:** [daffasierra2620@gmail.com](mailto:daffasierra2620@gmail.com)
 
@@ -59,6 +60,15 @@ I am Daffa Fadhul Rahman, a vocational high school student majoring in SIJA (Sis
 
 ### Tech Stack & Tools
 
+**Networking, SysAdmin & IoT**
+<br>
+![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-222222?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 **Frontend & Design**
 <br>
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -74,15 +84,6 @@ I am Daffa Fadhul Rahman, a vocational high school student majoring in SIJA (Sis
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-**Networking, SysAdmin & IoT**
-<br>
-![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-222222?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
 ---
 
 ### Featured Projects
@@ -95,7 +96,7 @@ I am Daffa Fadhul Rahman, a vocational high school student majoring in SIJA (Sis
 
 ### Beyond the Code
 When I'm not configuring servers or debugging code, you can usually find me:
-- Exploring mods in Stardew Valley, hunting ghosts in Phasmophobia, or playing Honkai: Star Rail.
+- Exploring mods in Stardew Valley, hunting ghosts in Phasmophobia, or playing Honkai: Star Rail and Neverness to Everness (NTE).
 - Writing general fiction with poetic themes on Wattpad.
 - Enjoying Tokusatsu series like Ultraman or reading manga.
 
