@@ -1,4 +1,4 @@
-# Hi there, I'm a Tech Enthusiast! 👋
+# Hi there, I'm a Tech Enthusiast!
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -8,17 +8,29 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaringan, dan Aplikasi) at SMKN 2 Yogyakarta. I have a huge passion for bridging hardware and software, from crafting beautiful user interfaces to configuring servers and building IoT devices.
 
-- 🎯 **Currently focusing on:** Preparing for the IT Network Systems Administration LKS competition and deepening my Full-Stack skills.
-- 💻 **What I do:** Web Development (React & Node.js), IoT Prototyping (ESP8266), and Network SysAdmin (Linux, MikroTik, Cisco).
-- 🎨 **Design:** I also enjoy creating UI/UX designs and layouts using Figma.
-- 📫 **How to reach me:** [daffasierra2620@gmail.com](mailto:daffasierra2620@gmail.com)
+- **Currently focusing on:** Preparing for the IT Network Systems Administration LKS competition and deepening my Full-Stack skills.
+- **What I do:** Web Development (React & Node.js), IoT Prototyping (ESP8266), and Network SysAdmin (Linux, MikroTik, Cisco).
+- **Design:** I also enjoy creating UI/UX designs and layouts using Figma.
+- **How to reach me:** [daffasierra2620@gmail.com](mailto:daffasierra2620@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/daffa-fadhul-rahman-4715723a7?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/dappa.jpg?igsh=amZ5cmR4NHh3N2E0" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+### Tech Stack & Tools
 
 **Frontend & Design**
 <br>
@@ -41,7 +53,7 @@ I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaring
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 *   **FutureFind AI** - A major matching platform built with React and Tailwind CSS to help vocational students find the right academic path based on their skills and interests.
 *   **IoT Gas Leak Detector** - A smart hardware system utilizing an ESP8266 NodeMCU, MQ-2, and DHT sensors, integrated with Blynk IoT and IFTTT for automated email alerts.
@@ -49,9 +61,10 @@ I am a vocational high school student majoring in SIJA (Sistem Informasi, Jaring
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reiii2602&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reiii2602&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Reiii2602&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Reiii2602 Trophies" />
+  </a>
 </div>
